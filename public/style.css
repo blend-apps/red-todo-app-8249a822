@@ -16,7 +16,7 @@
   --color-done-text: #94a3b8;   /* muted slate for completed items */
 
   /* ── Typography ── */
-  --font-family:     'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', cursive; /* 🎨 CHANGE ME */
+  --font-family:     'Inter', system-ui, -apple-system, sans-serif; /* 🎨 CHANGE ME */
   --font-size-base:  18px;                                                    /* 🎨 CHANGE ME */
 
   /* ── Layout ── */
